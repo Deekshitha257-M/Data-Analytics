@@ -1,0 +1,26 @@
+integer
+a=3
+
+float
+b=12.2
+
+boolean
+c=True
+
+string
+d="siara"
+
+list
+e=[10,11,12]
+
+tuple
+t=(1,2,3,"dee")
+
+dictionary
+emp={"name":"AAA","dept":"IT"}
+
+complex no
+d=5+3j
+
+set
+my_set = {1, 2, 3, 3, 4}
